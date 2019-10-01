@@ -1,12 +1,20 @@
-# Brainstorming
+# Notes
+This file contains snippets and ideas for the book.
 
 
+## Snippets
+
+```
 ## Some sprint some crawl
 An interaction is called crawl, the name shall reflect the pain inherent to the struggle.
+```
 
+```
 ## Grinding 
 Agile sounds nice but to get an astonishing diamond you need to polish/grind the raw ball of mud that you start with!
+```
 
+```
 ## Test last
 The most important aspect of testing last is the underlying mindset one must have when approaching the idea of
 developing a project or a product - to the striving Grinder tests must be:
@@ -42,3 +50,15 @@ choice, then you can follow the path of The Grinder and satisfy these metrics in
 
  -> Reasoning: Tests first is overall more efficient, but we want to waste moeny and resources without
                contirbuting/delivering a good prodcut.
+```
+
+```
+## MISC
+* Allways make it easy to do the wrong thing, but make it hard to the the right thing!
+* Never understand the problem fully
+```
+
+```
+Agile - Scrum - Sprint - ...
+  ?   - TheGrind - Crawl - ...
+```
