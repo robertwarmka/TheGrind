@@ -1,3 +1,3 @@
 # Summary
 
-- [Brainstorming](./brainstorming.md)
+- [Intro](./intro.md)
